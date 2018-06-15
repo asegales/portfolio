@@ -1,0 +1,229 @@
+{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #666666;
+    padding: 20px;
+    color: white;
+}
+.cap{
+    position:fixed;
+    top:0%;
+    left:0%;
+    background-color: #1a1a1a;
+    width:100%;
+    height: 20%;
+    z-index: 1;
+  
+}
+h1 {
+    position:relative;
+    left:5%;
+    font-size: 50px;
+    word-break: break-all;
+    color:white;
+}
+h2 {
+    position:relative;
+    left:5%;
+    word-break: break-all;
+}
+h3 {
+    position:absolute;
+    top:10%;
+    left:80%;
+    font-size: 300%;
+    color:white;
+    
+}
+
+#blabla{
+    position:absolute;
+    top:35%;
+    left:15%;
+    background-color:#666666;
+    width:500px;
+}
+#contact{
+    position:absolute;
+    top:30%;
+    left:50%;
+    background-color:#666666;
+    width:500px;
+}
+p {
+    position:absolute;
+    top: 25%;
+    left:15%;
+    
+}
+#textures{
+	position:absolute;
+    top: 40%;
+	left:15%;
+	width:30%;
+}
+#radio{
+	position:absolute;
+    top: 32%;
+	left:50%;
+	width:30%;
+}
+#emotes{
+	position:absolute;
+    top: 35%;
+    left:15%;
+	width:28%;
+}
+#cos{
+	position:absolute;
+    top: 35%;
+	left:60%;
+	width:30%;
+}
+#parfait{
+	position:absolute;
+    top: 75%;
+	left:20%;
+	width:15%;
+}
+#magdalena{
+	position:absolute;
+    top: 50%;
+	left:45%;
+	width:10%;
+}
+#magdalena2{
+	position:absolute;
+    top: 75%;
+	left:40%;
+	width:10%;
+}
+#retrat{
+	position:absolute;
+    top: 35%;
+    left: 15%;
+	width:20%;
+}
+#nba{
+	position:absolute;
+    top: 35%;
+    left: 40%;
+	width:20%;
+}
+#logo{
+	position:absolute;
+    top: 35%;
+    left: 65%;
+	width:20%;
+}
+#cofre{
+	position:absolute;
+    top: 40%;
+    left:15%;
+	width:20%;
+}
+#moto{
+	position:absolute;
+    top: 32%;
+    left:45%;
+	width:40%;
+}
+#convert{
+	position:absolute;
+    top: 32%;
+    left:45%;
+	width:40%;
+}
+#chess{
+	position:absolute;
+    top: 40%;
+    left:15%;
+	width:20%;
+}
+#puny{
+	position:absolute;
+    top: 85%;
+    left:40%;
+	width:20%;
+}
+#jump{
+	position:absolute;
+    top: 85%;
+    left:64%;
+	width:20%;
+}
+#squirrel{
+    position:absolute;
+    top: 35%;
+    left:15%;
+	width:28%;
+}
+#box{
+	position:absolute;
+    top: 85%;
+    left:15%;
+	width:20%;
+}
+#ugg{
+	position:absolute;
+    top: 35%;
+    left:50%;
+	width:26%;
+}
+#copes{
+	position:absolute;
+    top: 40%;
+    left:15%;
+	width:23%;
+}
+#puff{
+	position:absolute;
+    top: 35%;
+    left:44%;
+	width:40%;
+}
+#buddha{
+	position:absolute;
+    top: 85%;
+    left:46%;
+	width:10%;
+}
+#buddha2{
+	position:absolute;
+    top: 85%;
+    left:59%;
+	width:10%;
+}
+#buddha3{
+	position:absolute;
+    top: 85%;
+    left:72%;
+	width:10%;
+}
+#esquema{
+	position:absolute;
+    top: 75%;
+    left:15%;
+	width:25%;
+}
+#illa{
+	position:absolute;
+    top: 40%;
+    left:16%;
+	width:20%;
+}
+#cuina{
+	position:absolute;
+    top:37%;
+    left:40%;
+	width:49%;
+}
+#space{
+	position:absolute;
+    top: 65%;
+    left:16%;
+	width:20%;
+}
+
